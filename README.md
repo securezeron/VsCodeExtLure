@@ -24,13 +24,15 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash 
 - Clone the repository.
 ```
 git clone https://github.com/securezeron/VsCodeExtLure
+cd VsCodeExtLure
 ```
 - Make necessary adjustments in the config.json file
 ```
-nano VsCodeExtLure\config.json
+nano config.json
 ```
 - Execute the VsCodeLure.sh script
 ```
+chmod +x VsCodeLure.sh
 bash VsCodeExtLure/VsCodeLure.sh
 ```
 ## Generating and Locating Payload: 

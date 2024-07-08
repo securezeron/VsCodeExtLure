@@ -44,9 +44,8 @@ https://github.com/securezeron/VsCodeExtLure/assets/125662087/c12d8a6e-4ba0-400b
 ![image](https://github.com/securezeron/VsCodeExtLure/assets/125662087/54845608-45c8-4560-ac20-2896758e2386)
 
 ## Exploitation Scenario's:
-### Scenario 1
-- VSCode UI
+### Scenario 1: VSCode UI
 https://github.com/securezeron/VsCodeExtLure/assets/125662087/59807bc0-8b08-400f-acdb-658e1ae1ea4d
 
-- VSCode URI
+### Scenario 2: VSCode URI
 https://github.com/securezeron/VsCodeExtLure/assets/125662087/69a13f24-7ff0-4cc0-b369-c16df123b2dd

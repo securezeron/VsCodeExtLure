@@ -51,3 +51,6 @@ https://github.com/securezeron/VsCodeExtLure/assets/125662087/59807bc0-8b08-400f
 
 ### Scenario 2: VSCode URI
 https://github.com/securezeron/VsCodeExtLure/assets/125662087/69a13f24-7ff0-4cc0-b369-c16df123b2dd
+
+# Credits:
+[MDSec](https://www.mdsec.co.uk/2023/08/leveraging-vscode-extensions-for-initial-access/) 

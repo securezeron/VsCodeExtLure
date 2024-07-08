@@ -53,4 +53,11 @@ https://github.com/securezeron/VsCodeExtLure/assets/125662087/59807bc0-8b08-400f
 https://github.com/securezeron/VsCodeExtLure/assets/125662087/69a13f24-7ff0-4cc0-b369-c16df123b2dd
 
 # Credits:
-[MDSec](https://www.mdsec.co.uk/2023/08/leveraging-vscode-extensions-for-initial-access/) 
+A huge thanks to [MDSec](https://www.mdsec.co.uk/) for their excellent blog on [initial access leveraging VS Code extensions](https://www.mdsec.co.uk/2023/08/leveraging-vscode-extensions-for-initial-access/).
+
+
+
+
+
+
+
